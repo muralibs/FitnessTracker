@@ -38,7 +38,7 @@
     <dependency>
     	<groupId>org.hibernate</groupId>
     	<artifactId>hibernate-validator</artifactId>
-    	<version>5.2.1.FINAL</version>
+    	<version>4.3.2.Final-redhat-3</version>
     </dependency>
     <dependency>
     	<groupId>org.springframework</groupId>
